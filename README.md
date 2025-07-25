@@ -63,30 +63,31 @@ Build JegeeSt-Kedai-.Net from the source and install dependencies:
 
 ```sh
 git clone https://github.com/khensin166/JegeeSt-Kedai-.Net
-Navigate to the project directory:
+```
 
-sh
-Copy
-Edit
+2. **Navigate to the project directory:**
+
+```sh
 cd JegeeSt-Kedai-.Net
-Install the dependencies:
+```
 
-sh
-Copy
-Edit
+3. **Install the dependencies:**
+
+```sh
 dotnet restore
-Usage
-Run the project with:
+```
 
-sh
-Copy
-Edit
+**_ Usage _**
+
+**\* Run the project with: \*\***
+
+```sh
 dotnet run
-Testing
-Jegeest-Kedai-.Net uses the {test_framework} test framework. Run the test suite with:
+```
 
-sh
-Copy
-Edit
+**\*\*\*** Testing
+Jegeest-Kedai-.Net uses the {test_framework} test framework. Run the test suite with: ****\*****
+
+```sh
 dotnet test
 ```
